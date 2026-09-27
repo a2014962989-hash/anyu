@@ -1,0 +1,60 @@
+{
+  "audit_date": "2026-09-28",
+  "scope": "Local offline audit; no new API calls. Not a provider billing ledger or an ethics determination.",
+  "tumcc": {
+    "input_rows": 800,
+    "matches_clean_after_whitespace_removal": 800,
+    "unique_transmitted_sample_ids": 69,
+    "policy_overlap_sample_ids": 17,
+    "sample_text_candidate_counts": {},
+    "all_800_candidate_counts": {},
+    "policies": [
+      {
+        "policy": "prediction",
+        "events": 43,
+        "unique_sample_ids": 43,
+        "exact_prompt_reconstruction_matches": 43,
+        "prompt_hash_matches": 43,
+        "response_hash_matches": 43,
+        "selected_calls_manifest": 43,
+        "runner_hash_matches": true,
+        "prediction_hash_matches": true,
+        "returned_models": {
+          "deepseek-v4-pro": 43
+        },
+        "attempts": {
+          "1": 43
+        }
+      },
+      {
+        "policy": "entropy_prediction",
+        "events": 43,
+        "unique_sample_ids": 43,
+        "exact_prompt_reconstruction_matches": 43,
+        "prompt_hash_matches": 43,
+        "response_hash_matches": 43,
+        "selected_calls_manifest": 43,
+        "runner_hash_matches": true,
+        "prediction_hash_matches": true,
+        "returned_models": {
+          "deepseek-v4-pro": 43
+        },
+        "attempts": {
+          "1": 43
+        }
+      }
+    ],
+    "prompt_source_hash_matches_freeze": true
+  },
+  "local_log_inventory": {
+    "files": 17,
+    "successful_event_records": 2993,
+    "not_unique_text_count": true
+  },
+  "verification_passed": true,
+  "limitations": [
+    "Regex scanning cannot establish anonymity or exclude re-identification.",
+    "Provider retention and training use were not verified.",
+    "Successful application events do not exclude SDK retries or unlogged requests."
+  ]
+}
