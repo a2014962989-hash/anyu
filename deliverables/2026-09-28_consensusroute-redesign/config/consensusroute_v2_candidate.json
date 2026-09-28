@@ -1,0 +1,17 @@
+{
+  "status": "UNVALIDATED_DEVELOPMENT_CANDIDATE",
+  "macbert_threshold": 0.29,
+  "roberta_threshold": 0.21,
+  "review_margin": 0.25,
+  "ranking": "disagreement_first_then_minimum_normalized_threshold_distance_ascending",
+  "budget": "caller_supplied_integer_per_batch",
+  "fallback": "roberta_binary_prediction_plus_separate_review_status",
+  "remote_calls_enabled": false,
+  "target_definition": "existing_frozen_suspicious_drug_commerce_definition",
+  "tuning_scope": "development_only; no TUMCC724 or xPIP tuning",
+  "semantic_response": {
+    "target": ["in_scope", "out_of_scope", "uncertain"],
+    "current_commercial_act": ["yes", "no", "uncertain"],
+    "evidence": "nonempty supporting explanation; independently check against input"
+  }
+}

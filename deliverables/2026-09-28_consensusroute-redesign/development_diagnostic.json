@@ -1,0 +1,37 @@
+{
+  "status": "DEVELOPMENT_ROUTING_DIAGNOSTIC_ONLY",
+  "rows": 155,
+  "thresholds_previously_tuned_on_this_development_set": true,
+  "roberta_errors": 10,
+  "disagreements": 5,
+  "roberta_errors_in_agreement": 6,
+  "diagnostics": [
+    {
+      "budget": 8,
+      "candidate_selected": 8,
+      "candidate_roberta_errors_selected": 5,
+      "candidate_shared_errors_selected": 1,
+      "disagreement_selected": 5,
+      "disagreement_roberta_errors_selected": 4
+    },
+    {
+      "budget": 16,
+      "candidate_selected": 11,
+      "candidate_roberta_errors_selected": 5,
+      "candidate_shared_errors_selected": 1,
+      "disagreement_selected": 5,
+      "disagreement_roberta_errors_selected": 4
+    },
+    {
+      "budget": 24,
+      "candidate_selected": 11,
+      "candidate_roberta_errors_selected": 5,
+      "candidate_shared_errors_selected": 1,
+      "disagreement_selected": 5,
+      "disagreement_roberta_errors_selected": 4
+    }
+  ],
+  "tests": "passed: budget, shared-boundary selection, review preservation, input leakage guard, invalid input, structured response",
+  "candidate_classification_performance": "not measured; no verifier responses",
+  "network_calls": 0
+}
