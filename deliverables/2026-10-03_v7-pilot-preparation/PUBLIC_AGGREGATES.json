@@ -1,0 +1,137 @@
+{
+  "status": "REVIEWED_METADATA_PREPARATION_ONLY_NO_HUMAN_GOLD_OR_EXPERIMENT",
+  "author_release_commit": "c41325b5f86fb102df37561d95aa72def4dfcbda",
+  "full_rows": 6500,
+  "official_label_marginals": {
+    "benign": 500,
+    "porn": 500,
+    "surrogacy": 500,
+    "gambling": 500,
+    "drug": 500,
+    "weapon": 500,
+    "data-theft": 500,
+    "money-laundry": 500,
+    "advertisement": 500,
+    "counterfeit": 500,
+    "others": 500,
+    "hacking": 500,
+    "fraud": 500
+  },
+  "qualified_zh_rows": 4439,
+  "official_zh_support": {
+    "benign": {
+      "zh_rows": 42,
+      "exact_components": 42,
+      "near_components": 42
+    },
+    "porn": {
+      "zh_rows": 331,
+      "exact_components": 331,
+      "near_components": 311
+    },
+    "surrogacy": {
+      "zh_rows": 488,
+      "exact_components": 486,
+      "near_components": 460
+    },
+    "gambling": {
+      "zh_rows": 268,
+      "exact_components": 268,
+      "near_components": 257
+    },
+    "drug": {
+      "zh_rows": 324,
+      "exact_components": 324,
+      "near_components": 233
+    },
+    "weapon": {
+      "zh_rows": 477,
+      "exact_components": 466,
+      "near_components": 324
+    },
+    "data-theft": {
+      "zh_rows": 450,
+      "exact_components": 449,
+      "near_components": 320
+    },
+    "money-laundry": {
+      "zh_rows": 338,
+      "exact_components": 338,
+      "near_components": 255
+    },
+    "advertisement": {
+      "zh_rows": 264,
+      "exact_components": 264,
+      "near_components": 228
+    },
+    "counterfeit": {
+      "zh_rows": 462,
+      "exact_components": 462,
+      "near_components": 297
+    },
+    "others": {
+      "zh_rows": 432,
+      "exact_components": 394,
+      "near_components": 191
+    },
+    "hacking": {
+      "zh_rows": 498,
+      "exact_components": 497,
+      "near_components": 460
+    },
+    "fraud": {
+      "zh_rows": 65,
+      "exact_components": 62,
+      "near_components": 58
+    }
+  },
+  "near_component_label_set_size_distribution": {
+    "1": 3420,
+    "2": 8
+  },
+  "pilot_rows": 60,
+  "pilot_whole_string_components": 55,
+  "pilot_strata": {
+    "DRUG_SE": {
+      "rows": 15,
+      "groups": 11
+    },
+    "DRUG_TW": {
+      "rows": 15,
+      "groups": 14
+    },
+    "BENIGN_SE": {
+      "rows": 8,
+      "groups": 8
+    },
+    "BENIGN_TW": {
+      "rows": 7,
+      "groups": 7
+    },
+    "OTHER_SE": {
+      "rows": 8,
+      "groups": 8
+    },
+    "OTHER_TW": {
+      "rows": 7,
+      "groups": 7
+    }
+  },
+  "excluded_source_components": {
+    "mixed": 3
+  },
+  "independent_metadata_review_issues": 0,
+  "train_dev_confirmation_allocated": false,
+  "research_neural_updates": 0,
+  "research_svm_fits": 0,
+  "gpu_experiments": 0,
+  "current_775_data_gate": "NO_GO",
+  "fixed_50_supplement": "CLOSED_DATA_GATE_FAILURE",
+  "strict_N3_current_training_subset": "CLOSED_GEOMETRY_FEASIBILITY_FAILURE",
+  "pilot_human_gold_available": false,
+  "accepted_existing_human_snapshot": {
+    "formal_records": 775,
+    "calibration_subset_records": 60,
+    "model_ready_data_freeze": false
+  }
+}

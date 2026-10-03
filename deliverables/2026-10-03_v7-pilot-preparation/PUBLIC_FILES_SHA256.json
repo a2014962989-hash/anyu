@@ -1,0 +1,13 @@
+{
+  "files": {
+    "README.md": {
+      "bytes": 2582,
+      "sha256": "e838006d42dc4395315b436b4359ae4340bde601745ecf978114e49cfd613c2a"
+    },
+    "PUBLIC_AGGREGATES.json": {
+      "bytes": 3028,
+      "sha256": "a0400da7b51e229b29f7230b73f5692848692b6a16fff1d7149071999a5d3bfb"
+    }
+  },
+  "scope": "Reviewed public aggregates; hash manifest excludes itself"
+}

@@ -8,3 +8,5 @@
 | 2026-10-03 | [Evidence feasibility and branch closure](2026-10-03_evidence-feasibility/README.md) | Reviewed aggregate snapshot and geometry core; data and geometry gates failed; no new training |
 
 | 2026-10-03 | [Label-blind string-screen capacity](2026-10-03_label-blind-string-capacity/README.md) | Full fixed string screen and reviewed generic core; independent-data eligibility not established |
+
+- [2026-10-03 reviewed published-label capacity and v7 pilot metadata](2026-10-03_v7-pilot-preparation/README.md): aggregate preparation only; human gold and experiments pending.
