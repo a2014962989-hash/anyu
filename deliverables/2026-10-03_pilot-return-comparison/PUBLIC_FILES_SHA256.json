@@ -1,0 +1,13 @@
+{
+  "scope": "Reviewed aggregate files only; this manifest excludes itself",
+  "files": {
+    "README.md": {
+      "bytes": 2495,
+      "sha256": "fdf7cf90bdb5d11fc1ddd78622f0bff0f46762b419d5ebb1ac12127a0245cd22"
+    },
+    "PUBLIC_AGGREGATES.json": {
+      "bytes": 2013,
+      "sha256": "2eac8049bacc2fe884ee984866e671d96ff798f24846c752bb64af2846fa122e"
+    }
+  }
+}

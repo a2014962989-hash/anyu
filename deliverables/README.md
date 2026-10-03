@@ -10,3 +10,5 @@
 | 2026-10-03 | [Label-blind string-screen capacity](2026-10-03_label-blind-string-capacity/README.md) | Full fixed string screen and reviewed generic core; independent-data eligibility not established |
 
 - [2026-10-03 reviewed published-label capacity and v7 pilot metadata](2026-10-03_v7-pilot-preparation/README.md): aggregate preparation only; human gold and experiments pending.
+
+- [2026-10-03 reviewed two-human pilot return comparison](2026-10-03_pilot-return-comparison/README.md): descriptive agreement and mechanical evidence coverage; no merged gold or model effect.

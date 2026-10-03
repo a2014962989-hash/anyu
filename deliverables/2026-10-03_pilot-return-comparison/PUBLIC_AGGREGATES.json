@@ -1,0 +1,76 @@
+{
+  "status": "REVIEWED_TWO_HUMAN_RETURN_DESCRIPTIVES_NOT_GOLD_OR_MODEL_EFFECT",
+  "fixed_pilot_rows": 60,
+  "fixed_pilot_string_components": 55,
+  "human_returns": 2,
+  "category_agreement": {
+    "N": 60,
+    "agree": 56
+  },
+  "binary_both_AE": {
+    "N": 53,
+    "agree": 53
+  },
+  "category_marginals": {
+    "A": {
+      "B_suspected_commercial_or_transactional": 5,
+      "E_benign_or_unrelated": 30,
+      "A_direct_commerce": 15,
+      "U_uncertain": 4,
+      "D_reporting_or_anti_drug_education": 4,
+      "X_exclude": 2
+    },
+    "B": {
+      "B_suspected_commercial_or_transactional": 5,
+      "E_benign_or_unrelated": 32,
+      "A_direct_commerce": 15,
+      "D_reporting_or_anti_drug_education": 4,
+      "X_exclude": 3,
+      "U_uncertain": 1
+    }
+  },
+  "fixed_enum_exact_agreement_N60": {
+    "drug_target": 57,
+    "coded_reference": 44,
+    "context_sufficiency": 53,
+    "rationale_complete": 60
+  },
+  "core_candidate_records": 20,
+  "human_quote_rows_mechanically_valid": {
+    "A": 81,
+    "B": 64
+  },
+  "AE_declared_complete_rationale_and_mechanical_quote_coverage": {
+    "A": {
+      "AE_denominator": 54,
+      "declared_complete_rationale_and_mechanical_quote_count": 54,
+      "ratio": 1.0
+    },
+    "B": {
+      "AE_denominator": 56,
+      "declared_complete_rationale_and_mechanical_quote_count": 56,
+      "ratio": 1.0
+    }
+  },
+  "same_category_AE_coverage": {
+    "N": 53,
+    "coverage_by_role": {
+      "A": 53,
+      "B": 53
+    }
+  },
+  "independent_mechanical_review_issues": 0,
+  "human_semantic_adjudication_performed": false,
+  "merged_gold_available": false,
+  "train_dev_confirmation_allocated": false,
+  "research_neural_updates": 0,
+  "research_neural_forward_passes": 0,
+  "research_svm_fits": 0,
+  "gpu_experiments": 0,
+  "independent_confirmation_records": 0,
+  "C_support": 0,
+  "D_support_each_annotator": 4,
+  "original_775_data_gate": "NO_GO_UNCHANGED",
+  "fixed_50_supplement": "CLOSED_UNCHANGED",
+  "original_training_N3_geometry": "CLOSED_UNCHANGED"
+}
