@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "as_of_utc": "2026-10-03",
+  "status": "DATA_AND_GEOMETRY_BRANCHES_CLOSED_NO_MODEL_EFFECT_CLAIM",
+  "accepted_human_snapshot": {
+    "formal_records": 775,
+    "calibration_records": 60,
+    "calibration_not_added_to_training": true
+  },
+  "original": {
+    "train_total": 620,
+    "dev_total": 155,
+    "clean_dev_total": 152,
+    "ae_train": 572,
+    "ae_dev": 136,
+    "ae_clean_dev": 133,
+    "train_class_counts": {
+      "A": 105,
+      "B": 59,
+      "C": 94,
+      "D": 2,
+      "E": 312
+    },
+    "train_D_required": 20,
+    "clean_dev_D": 1,
+    "clean_dev_D_required": 5,
+    "clean_dev_B": 8,
+    "clean_dev_B_required": 10,
+    "data_gate": "NO_GO"
+  },
+  "fixed_supplement": {
+    "double_human_return_records": 50,
+    "train_purpose": 30,
+    "dev_purpose": 20,
+    "agreed_dev_B": 0,
+    "optimistic_joint_clean_B_upper_bound": 9,
+    "required_clean_B": 10,
+    "branch": "CLOSED",
+    "no_replacement": true
+  },
+  "human_evidence_preflight": {
+    "train_usable": 452,
+    "ae_train_denominator": 572,
+    "evidence_ratio_gate": "PASS"
+  },
+  "strict_geometry_preflight": {
+    "seeds": [
+      20260912,
+      20260913,
+      20260914
+    ],
+    "same_aggregate_counts_each_seed": true,
+    "paired_per_seed": 145,
+    "ae_train_denominator": 572,
+    "required_total": 229,
+    "class_paired_counts_each_seed": {
+      "A": 17,
+      "B": 10,
+      "C": 1,
+      "D": 0,
+      "E": 117
+    },
+    "body_window_mismatch": 87,
+    "no_strict_complement_geometry": 220,
+    "original_unusable": 120,
+    "search_cap_exhausted": 0,
+    "branch": "CLOSED"
+  },
+  "new_research_runs": {
+    "neural_updates": 0,
+    "neural_forward": 0,
+    "svm_fit": 0,
+    "gpu": 0,
+    "independent_confirmation": 0
+  },
+  "code_provenance": {
+    "source_sha256": "9e296c1dc2c1a4e0fd0dac975cdf4c3d70fbd698b45a2b87a819489fc35a362c",
+    "export": "three unchanged function bodies; imports, constant and exception supplied without private runner"
+  }
+}

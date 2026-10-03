@@ -1,0 +1,18 @@
+{
+  "geometry_core.py": {
+    "bytes": 6135,
+    "sha256": "f9a2e0d8abffe47b796c87fa79056be3350ef15ae285fb94a0bd2904b6093eec"
+  },
+  "PROTOCOL.md": {
+    "bytes": 2154,
+    "sha256": "e78a48421a243e82107cc0f641ae641f10acdf19eb596ad5970bfcf3313602ad"
+  },
+  "README.md": {
+    "bytes": 2258,
+    "sha256": "67e4fc33b674058d2b8cc5429f0d38db271baac04056524c73938c8aba26a355"
+  },
+  "SUMMARY.json": {
+    "bytes": 2063,
+    "sha256": "3d69e0b7de745ea8ff09679da5ea239e7a74c0e65dd807f4f951e991772e3a69"
+  }
+}
