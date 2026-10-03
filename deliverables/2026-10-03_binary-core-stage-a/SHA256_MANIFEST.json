@@ -1,0 +1,16 @@
+{
+  "scope": "Root-reviewed public aggregate only",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 549,
+      "sha256": "4a0a5d523adb54afe1fb65dc0b7a76c53e58d2dd5e566f58fcd2da28e33a5d14"
+    },
+    {
+      "path": "PUBLIC_STAGE_A_SUMMARY.md",
+      "bytes": 2559,
+      "sha256": "c1a4767f2d787a3bc818f2be35ee001fa24e3c9100cf3ac2dbdf9fe7f7afc66f"
+    }
+  ],
+  "self_excluded": true
+}

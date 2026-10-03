@@ -14,3 +14,5 @@
 - [2026-10-03 reviewed two-human pilot return comparison](2026-10-03_pilot-return-comparison/README.md): descriptive agreement and mechanical evidence coverage; no merged gold or model effect.
 
 - [2026-10-03 binary-core development route and fixed geometric-control closure](2026-10-03_binary-core-route/README.md): reviewed prospective plan and completed aggregate diagnostic; classifier experiments pending.
+
+- [2026-10-03 binary-core stage A development preparation](2026-10-03_binary-core-stage-a/README.md): reviewed fixed human data, one CPU SVM baseline, evidence coverage and eight implementation checks; neural fit results pending.
