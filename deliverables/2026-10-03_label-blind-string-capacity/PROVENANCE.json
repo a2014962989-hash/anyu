@@ -1,0 +1,12 @@
+{
+  "reviewed_utc": "2026-10-03T04:44Z",
+  "upstream_commit": "c41325b5f86fb102df37561d95aa72def4dfcbda",
+  "upstream_category_blob_sha1": "fe472b5a0ec1451d745773d2d7fc5dc5da0a00fd",
+  "local_category_sha256": "a104c6a15dcd0506ceb1989f2b16a0708e5a8768cdc73c825940d4b7467c30f2",
+  "reviewed_processor_sha256": "c360432c4c14a04a90d1be2070e2e69bb17bcfe1f0d158c2b8da4d071916aa6f",
+  "saved_audit_sha256": "7ea690239f9fb8f9003f3f61009f4e154742a33ce14a298b2affa82bd979b1fd",
+  "saved_pair_edges_sha256": "fa2d017afce76b4eab60cc06cebdfd3197bf3b776cb4c86169aa3ede0171ec6e",
+  "saved_components_sha256": "8fb33e52ffadc1693204dd684a63ca23dcd1f6cdb1487d8b3f870f06644438ef",
+  "scope": "aggregate-only public snapshot; private inputs and diagnostics excluded",
+  "experiment_rerun": false
+}
