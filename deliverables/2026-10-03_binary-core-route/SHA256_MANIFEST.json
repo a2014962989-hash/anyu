@@ -1,0 +1,17 @@
+{
+  "reviewed_at_utc": "2026-10-03T17:07:14.179287+00:00",
+  "files": {
+    "PUBLIC_GEOMETRY_CLOSURE.md": {
+      "bytes": 1509,
+      "sha256": "c2344a1e51bb894c3904e8cf8d8cfd26617eac4143ca9fd5a9244e6db17fe9b7"
+    },
+    "PUBLIC_ROADMAP.md": {
+      "bytes": 1624,
+      "sha256": "9e6a568d6b24acca4f275704c494721e000f4b1855809a842adacba0df94c7ef"
+    },
+    "README.md": {
+      "bytes": 379,
+      "sha256": "82520bf1132a1e257b13e490dbec73733260ca38eaa68888a5048df01dcebd2d"
+    }
+  }
+}

@@ -12,3 +12,5 @@
 - [2026-10-03 reviewed published-label capacity and v7 pilot metadata](2026-10-03_v7-pilot-preparation/README.md): aggregate preparation only; human gold and experiments pending.
 
 - [2026-10-03 reviewed two-human pilot return comparison](2026-10-03_pilot-return-comparison/README.md): descriptive agreement and mechanical evidence coverage; no merged gold or model effect.
+
+- [2026-10-03 binary-core development route and fixed geometric-control closure](2026-10-03_binary-core-route/README.md): reviewed prospective plan and completed aggregate diagnostic; classifier experiments pending.
