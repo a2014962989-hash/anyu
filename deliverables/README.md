@@ -16,3 +16,5 @@
 - [2026-10-03 binary-core development route and fixed geometric-control closure](2026-10-03_binary-core-route/README.md): reviewed prospective plan and completed aggregate diagnostic; classifier experiments pending.
 
 - [2026-10-03 binary-core stage A development preparation](2026-10-03_binary-core-stage-a/README.md): reviewed fixed human data, one CPU SVM baseline, evidence coverage and eight implementation checks; neural fit results pending.
+
+- [2026-10-03 fixed first-seed binary development comparison](2026-10-03_binary-core-first-seed/README.md): four completed arms and independently checked aggregate results; remaining fixed seeds and independent confirmation pending.
