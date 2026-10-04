@@ -20,3 +20,5 @@
 - [2026-10-03 fixed first-seed binary development comparison](2026-10-03_binary-core-first-seed/README.md): four completed arms and independently checked aggregate results; remaining fixed seeds and independent confirmation pending.
 
 - [2026-10-04 fixed second-seed binary development comparison](2026-10-04_binary-core-second-seed/README.md): four completed arms, independently verified predictions and same-count control; final fixed seed pending.
+
+- [2026-10-04 fixed third-seed binary development comparison](2026-10-04_binary-core-third-seed/README.md): all twelve fixed runs complete; independently verified predictions and same-count control, with three-seed mean-probability analysis pending.
