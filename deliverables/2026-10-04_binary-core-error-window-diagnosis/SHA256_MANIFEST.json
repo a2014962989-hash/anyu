@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "path": "PUBLIC_ERROR_WINDOW_SUMMARY.md",
+      "bytes": 1985,
+      "sha256": "381677d5ba6a6f8047a5dd856df2ac6c0742f0633b4cf64aa7913d3e73f8a3cd"
+    },
+    {
+      "path": "README.md",
+      "bytes": 354,
+      "sha256": "e7ef821d2309b9af480effabec5d2caf6a6ec0181a4a7c3f3fd5066e9dc9e611"
+    }
+  ],
+  "root_qa_sha256": "bf0c15cd49a6efb313759c284924d063c6725567954680d2b8c48e0fe70a28e2",
+  "public_aggregates_only": true
+}
