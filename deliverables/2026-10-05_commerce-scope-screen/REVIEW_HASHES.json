@@ -1,0 +1,20 @@
+{
+  "schema": "commerce_scope_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_SCOPE_REVIEW_20261005T2135Z_TEXT_FREE.json",
+      "bytes": 4278,
+      "sha256": "50599d137f1fac2cbd8370efe12f0796720ff439f1723d6457c463c1181ce4f5"
+    },
+    {
+      "name": "ROOT_SCOPE_REVIEW_AND_ROUTE_20261005T2135Z.md",
+      "bytes": 3161,
+      "sha256": "d5b7d8f03cf72035ed3fad0ff5d1539678bec58c0679ffcd232ffc141a38d2fa"
+    },
+    {
+      "name": "SCOPE_TARGET_AND_IDENTIFIABILITY.md",
+      "bytes": 12477,
+      "sha256": "c33610342bdd616b480a4bab038c6a718edf5beef2893cd6ba6f92581b047b8c"
+    }
+  ]
+}
