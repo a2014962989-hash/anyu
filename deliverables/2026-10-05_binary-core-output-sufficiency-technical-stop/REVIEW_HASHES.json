@@ -1,0 +1,11 @@
+{
+  "status": "STOPPED_TECHNICAL_PAIRING_FAILURE_NO_REPLAY_ALLOWED",
+  "saved_numeric_review_sha256": "14a31062050e8fa7f82454d2e1663645006331a433e3f4a96ac0fae9f2e71a2e",
+  "issue_count_in_saved_numeric_review": 0,
+  "S0_complete_updates": 360,
+  "S1_actual_successful_updates": 1,
+  "S1_checkpoint_successful_updates": 0,
+  "method_gate_status": "NOT_EVALUABLE",
+  "automatic_relaunch_authorized": false,
+  "independent_confirmation": 0
+}
