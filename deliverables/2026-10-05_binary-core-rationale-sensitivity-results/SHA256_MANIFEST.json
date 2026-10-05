@@ -1,0 +1,14 @@
+{
+  "scope": "REVIEWED_AGGREGATE_SENSITIVITY_RESULTS",
+  "files": {
+    "README.md": "ee2f386a03b50be38bfffaaff89fac7c00f36386fc6df0f9bc4aec4546c71a12",
+    "PUBLIC_RESULT_SUMMARY.md": "e345eea7a886164f716fd7d3d594540a437f15bcda5decf5145420a92046378f"
+  },
+  "review_sha256": "759ca46e89ab66c4cdbf883fdab91f67420fe015c9d635a18cf3d981103f0298",
+  "probabilities_sha256": "09e5c8785fc5d20e2d3820e503e05995bf5b02df7ada277621a84e28101a5c68",
+  "analysis_sha256": "22513c8761ea4ba37d6c591987d18e0518e4222dcde7c6c8e326ecb1dca8b0e6",
+  "route_acceptance_sha256": "5d3e382554ccd12a04974a85bae3c1fc3d16641debafb6f577f02b39845a4687",
+  "prespecified_route_gate_pass": true,
+  "new_fit_authorized": 0,
+  "confirmation_results": 0
+}

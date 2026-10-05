@@ -30,3 +30,5 @@
 - [2026-10-05 Prospective human annotation task](2026-10-05_human-gold-full-batch/README.md): 4,323 records; labels pending, confirmation sealed.
 
 - [2026-10-05 fixed rationale sensitivity preparation](2026-10-05_binary-core-rationale-sensitivity/README.md): saved inputs and source reviewed; bounded inference authorized, results pending.
+
+- [2026-10-05 fixed rationale sensitivity results](2026-10-05_binary-core-rationale-sensitivity-results/README.md): reviewed bounded inference and route-priority criterion; output objective preparation dispatched, no new fit.
