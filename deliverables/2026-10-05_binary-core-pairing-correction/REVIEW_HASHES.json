@@ -1,0 +1,15 @@
+{
+  "schema": "reviewed_pairing_v2_document_hashes.v1",
+  "documents": [
+    {
+      "name": "ROOT_FINAL_SOURCE_ACCEPTANCE_20261005T1255Z.md",
+      "bytes": 3386,
+      "sha256": "eaf7860a7fa2276004bd8e3e978c1e77f22701e33b6c32b6de34d02227751841"
+    },
+    {
+      "name": "SAVED_STATIC_REVIEW_FINAL_20261005T1255Z_TEXT_FREE.json",
+      "bytes": 2367,
+      "sha256": "d2b4cfc351de0840ed63ebc9ed8566ae2eb554018b7104fdfd6c29bd722fd271"
+    }
+  ]
+}

@@ -40,3 +40,5 @@
 - [2026-10-05 output sufficiency technical stop](2026-10-05_binary-core-output-sufficiency-technical-stop/README.md): completed random control; incomplete human candidate, no checkpoint-zero replay; method gate not evaluable.
 
 - [2026-10-05 pairing failure forensics](2026-10-05_binary-core-pairing-failure-forensics/README.md): one reviewed CPU audit; static correction commissioned, no new compute budget or method conclusion.
+
+- [2026-10-05 pairing correction static acceptance](2026-10-05_binary-core-pairing-correction/README.md): reviewed static pairing and persistence correction; one new fresh pair authorized, execution outcome pending.
