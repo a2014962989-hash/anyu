@@ -1,0 +1,15 @@
+{
+  "scope": "aggregate task files only",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 469,
+      "sha256": "06838ded58ef8639920abae9e00eb38b736964f1311d49d81032b64f1ce5db79"
+    },
+    {
+      "path": "PUBLIC_TASK_SUMMARY.md",
+      "bytes": 1295,
+      "sha256": "50bacf83311146980ce48fb1b10f6e2f609fbdb2d823d9e622a034df82889ae6"
+    }
+  ]
+}

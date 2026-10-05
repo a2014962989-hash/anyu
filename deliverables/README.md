@@ -26,3 +26,5 @@
 - [2026-10-04 frozen three-seed binary development analysis](2026-10-04_binary-core-three-seed-analysis/README.md): independently verified ensemble and paired-error results; human token-supervision candidate closed under the original development criteria.
 
 - [2026-10-04 fixed error/window diagnosis](2026-10-04_binary-core-error-window-diagnosis/README.md): reviewed aggregate window counts and closed current explanation.
+
+- [2026-10-05 Prospective human annotation task](2026-10-05_human-gold-full-batch/README.md): 4,323 records; labels pending, confirmation sealed.
