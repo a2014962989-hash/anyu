@@ -1,0 +1,26 @@
+{
+  "classification_counts_by_field": {
+    "不止空白差异，需重摘原句": 195,
+    "仅空白差异，可核对原文建议": 554
+  },
+  "proposals_are_unaccepted": true,
+  "method": "Unique exact character match after whitespace-only normalization, preserving original returned cells.",
+  "semantic_labels_changed": 0,
+  "confirmation_answers_read": false,
+  "queue_rows": 684,
+  "main_disagreement_rows": 53,
+  "files": [
+    {
+      "name": "待核对裁决清单_684条_PRIVATE.csv",
+      "bytes": 494866,
+      "sha256": "7aaabc3d282d1e0faf5ab7d7b60a41ed38047c0e1bc22fbc2d325ab883798472"
+    },
+    {
+      "name": "主标签分歧_53条_PRIVATE.csv",
+      "bytes": 34299,
+      "sha256": "0713efe1452e7c8593adfd2257b1b8ce325b9b30f66fd6173579d6747d076247"
+    }
+  ],
+  "csv_display_escaping": "Leading apostrophe added only to spreadsheet formula-triggering display cells; raw values retained in private snapshots. Never interpret this apostrophe as evidence text.",
+  "escaped_display_cells_across_two_files": 10
+}
