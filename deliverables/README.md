@@ -48,3 +48,5 @@
 - [2026-10-05 returned-code component audit](2026-10-05_human-gold-component-audit/README.md): independently reviewed metadata; data not qualified for training or confirmation.
 
 - [2026-10-05 object/action relation screen](2026-10-05_binary-core-role-relation-screen/README.md): current formulation closed; bounded identifiability corrections accepted.
+
+- [2026-10-05 conditional paired relation evaluation](2026-10-05_relation-validation-design/README.md): symbolic design accepted under future conditions; hard-budget feasibility remains separate.

@@ -1,0 +1,13 @@
+# Conditional finite-population paired evaluation design
+
+Root accepted the symbolic design under explicit future conditions. A finite candidate frame and component partition, reliable binary relation labels, fixed independent predictors and known positive unit and joint inclusion probabilities are required. No current method, data or paper gate has passed.
+
+The proposed independent two-stage Bernoulli design distinguishes candidate-average from component-average paired loss. Its linear Horvitz-Thompson estimator and joint-probability variance retain shared-sample model pairing and within-component dependence. The two-component hand calculation gives a target of 1/4 and design variance of 7/16. Independent bounded component contributions support a conservative finite-sample concentration interval. Confusion totals are linear targets; their F1 ratio is generally not finite-sample unbiased, and an interval permitting a zero denominator is reported uninformative.
+
+Root directly checked the source formulas and saved derivation. The work completed in 951.586 seconds against a 1,200-second cap; eight saved output hashes matched. The official variance article is by Peter M. Aronow and Cyrus Samii, rather than an institutional author. Source references: [Horvitz and Thompson](https://www.tandfonline.com/doi/abs/10.1080/01621459.1952.10483446), [Aronow and Samii, Section 2](https://www150.statcan.gc.ca/n1/pub/12-001-x/2013001/article/11831/section2-eng.htm), [Hoeffding, Theorem 2](https://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500830).
+
+Bernoulli sampling has random realized workload: controlling expected cost does not ensure a hard annotation cap. Truncating the draw at a budget limit changes inclusion probabilities. Root separately dispatched symbolic work on a fixed-size alternative; this is not permission to sample or annotate. The accepted base design assumes all sampled labels are reliably resolved. Marginal response probabilities alone do not preserve its joint-probability variance or independence bounds.
+
+The current relation method remains closed. New return workflow is unconfirmed, no new human gold or independent confirmation has been accepted, and confirmation answers remain sealed. No data access, implementation, sampling, annotation or fit is authorized. This mathematical evaluation design is not a new prediction method, a power guarantee or overall research completion.
+
+Only reviewed aggregates and document hashes are published. No private records, text, identifiers, labels, returned workbooks, source, authorization, model or checkpoint is included.

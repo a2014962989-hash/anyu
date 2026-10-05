@@ -1,0 +1,20 @@
+{
+  "schema": "conditional_relation_design_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_DESIGN_REVIEW_20261005T2015Z_TEXT_FREE.json",
+      "bytes": 4605,
+      "sha256": "fb42e386ad775fc74b10b53bafc2e468f579ba24d0e869601dbeb92d069182a4"
+    },
+    {
+      "name": "ROOT_DESIGN_ACCEPTANCE_AND_NEXT_QUESTION_20261005T2015Z.md",
+      "bytes": 2099,
+      "sha256": "ba471a06b9a2b40425669f5f34dea744ed1d89c6576942e43a388c668763a605"
+    },
+    {
+      "name": "FINITE_POPULATION_PAIRED_DESIGN.md",
+      "bytes": 13462,
+      "sha256": "9176a35c7d724649207730798648ca4df22d30fa5cb4c43b02042ac1cabff757"
+    }
+  ]
+}
