@@ -1,0 +1,20 @@
+{
+  "schema": "reviewed_output_sufficiency_result_hashes.v1",
+  "documents": [
+    {
+      "name": "ROOT_RESULT_ACCEPTANCE_AND_ROUTE_DECISION_20261005T1455Z.md",
+      "bytes": 3371,
+      "sha256": "dff1ec8c23e19dfb8a22f5f7401b2613bef9858e099f94e3c648c04941c7e3e6"
+    },
+    {
+      "name": "SAVED_COMPLETED_PAIR_REVIEW_20261005T1455Z_FINAL_TEXT_FREE.json",
+      "bytes": 6589,
+      "sha256": "c79b6e5e6ee97452515d33b20e37411ad813eae4a1b824f0d1bc39c51b0c659f"
+    },
+    {
+      "name": "SAVED_PAIRING_REVIEW_20261005T1415Z_TEXT_FREE.json",
+      "bytes": 956,
+      "sha256": "48b615272f7b6736a8d6f688ace57611b527602464f9dca4a6b12fc224f912e6"
+    }
+  ]
+}
