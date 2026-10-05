@@ -1,0 +1,20 @@
+{
+  "schema": "conditional_hard_budget_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_HARD_BUDGET_REVIEW_20261005T2055Z_TEXT_FREE.json",
+      "bytes": 3715,
+      "sha256": "ad7a92468b43ce2ed4c0d91f0d0cc0d51ae472e1b6812f265bf81a0f6f57e2e3"
+    },
+    {
+      "name": "ROOT_HARD_BUDGET_ACCEPTANCE_AND_ROUTE_20261005T2055Z.md",
+      "bytes": 1629,
+      "sha256": "898f7d94e225ffe98f1bdb773be8ef5fc4807ff74a9d7f952aa0b0f4c737b9fd"
+    },
+    {
+      "name": "FINITE_BUDGET_DESIGN_AND_PROOFS.md",
+      "bytes": 15991,
+      "sha256": "44e838d0ee8fc40cc10f506fce35a6319e3ced290522b8477e87b36d20b8eb6f"
+    }
+  ]
+}

@@ -50,3 +50,5 @@
 - [2026-10-05 object/action relation screen](2026-10-05_binary-core-role-relation-screen/README.md): current formulation closed; bounded identifiability corrections accepted.
 
 - [2026-10-05 conditional paired relation evaluation](2026-10-05_relation-validation-design/README.md): symbolic design accepted under future conditions; hard-budget feasibility remains separate.
+
+- [2026-10-05 hard-budget paired evaluation](2026-10-05_relation-hard-budget-design/README.md): conditional hard-budget design accepted with zero-variance boundary repair; no execution authorized.
