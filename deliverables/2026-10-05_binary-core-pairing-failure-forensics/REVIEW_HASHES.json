@@ -1,0 +1,15 @@
+{
+  "schema": "reviewed_forensic_document_hashes.v1",
+  "documents": [
+    {
+      "name": "ROOT_ACCEPTANCE_AND_ROUTE_DECISION.md",
+      "bytes": 2835,
+      "sha256": "de4f8abfde49bb2d32e0d6bde7bad7faa43655e0d007238656a6b33da26d33ec"
+    },
+    {
+      "name": "SAVED_FORENSIC_REVIEW_20261005T1015Z_TEXT_FREE.json",
+      "bytes": 1988,
+      "sha256": "776d4d368fa3d247e76ab9ca8bf87cff6de10339ab050f22d97144bd222f28c8"
+    }
+  ]
+}
