@@ -46,3 +46,5 @@
 - [2026-10-05 output-sufficiency results](2026-10-05_binary-core-output-sufficiency-results/README.md): complete fair pair, independent saved-output review; gain gates failed and objective closed.
 
 - [2026-10-05 returned-code component audit](2026-10-05_human-gold-component-audit/README.md): independently reviewed metadata; data not qualified for training or confirmation.
+
+- [2026-10-05 object/action relation screen](2026-10-05_binary-core-role-relation-screen/README.md): current formulation closed; bounded identifiability corrections accepted.
