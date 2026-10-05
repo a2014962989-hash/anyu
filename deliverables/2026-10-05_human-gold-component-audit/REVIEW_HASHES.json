@@ -1,0 +1,20 @@
+{
+  "schema": "reviewed_component_audit_hashes.v1",
+  "documents": [
+    {
+      "name": "SAVED_COMPONENT_RESULTS_REVIEW_20261005T1615Z_TEXT_FREE.json",
+      "bytes": 5840,
+      "sha256": "e723f762a8a4a2b0dd2da4c04160878b4825db59f694095db82aa58744bbe8d5"
+    },
+    {
+      "name": "ROOT_RESULT_ACCEPTANCE_AND_DATA_QUALIFICATION_20261005T1615Z.md",
+      "bytes": 3080,
+      "sha256": "4f401f334875617fb2740d11421c3df1d85697afa1f4fb55867333ce64bb06bc"
+    },
+    {
+      "name": "ROOT_PARTIAL_REVIEW_AND_RECOVERY_AUTHORIZATION_20261005T1615Z.md",
+      "bytes": 2448,
+      "sha256": "fe5f616f7d951c54509bfa180cb52749c678efa4923f774efb44784cfd023c1f"
+    }
+  ]
+}

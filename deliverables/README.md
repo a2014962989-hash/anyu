@@ -44,3 +44,5 @@
 - [2026-10-05 pairing correction static acceptance](2026-10-05_binary-core-pairing-correction/README.md): reviewed static pairing and persistence correction; one new fresh pair authorized, execution outcome pending.
 
 - [2026-10-05 output-sufficiency results](2026-10-05_binary-core-output-sufficiency-results/README.md): complete fair pair, independent saved-output review; gain gates failed and objective closed.
+
+- [2026-10-05 returned-code component audit](2026-10-05_human-gold-component-audit/README.md): independently reviewed metadata; data not qualified for training or confirmation.
