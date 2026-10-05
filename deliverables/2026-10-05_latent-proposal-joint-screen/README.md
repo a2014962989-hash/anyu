@@ -1,0 +1,13 @@
+# Joint latent label marginalization: current mechanism closed
+
+Root accepted the executor's NO-GO recommendation for the current standard maximum marginal likelihood mechanism. Summing the probability mass of label-compatible latent structures and minimizing label NLL does not specify an additional mechanism beyond established weak supervision. This bounded screen does not prove that every future approach lacks novelty.
+
+[Dasigi et al. (2019)](https://aclanthology.org/N19-1273/) explicitly marginalize logical forms that execute to the observed denotation; their iterative-search contribution adds coverage and search mechanisms. [Min et al. (2019)](https://aclanthology.org/D19-1284/) compare this compatible-solution sum with a hard maximum, and distinguish the answer-consistent training set from the full inference candidate set. These tasks have grounded executors and coverage assumptions, which do not provide commerce-role gold labels.
+
+Root directly checked both official full texts and all eight original output hashes. The task completed in 707.009 seconds within a 1,500-second cap, using one query batch and two directly reviewed papers. Two unsuccessful paper fetches were preserved and were not counted as evidence. No private records, models, training or confirmation answers were accessed.
+
+The symbolic examples correctly distinguish joint dependence from products of equal marginals. Equal label mass can also coexist with different latent explanations. This observation does not ignore information in the full input or constraints imposed by a particular model family, and it is not evidence of predictive improvement, causal faithfulness or verified semantic roles.
+
+After preserving original bytes, Root corrected the unsupported general claim that exact MAP is cheaper than exact marginalization: graph structure, treewidth and the actual algorithm determine cost, and both can have the same order of complexity. Root also made an equal-label-mass numerical example and the empty-positive-fiber boundary explicit. Candidate coverage must be reported; evaluation labels cannot select candidates or supply latent prediction inputs.
+
+Previous failed objectives and their budgets remain closed. Old annotation confirmation keeps its original scope; the new returned workflow remains unverified and confirmation answers sealed. No implementation, annotation or fit permission was added. Root next dispatched a separate public corpus provenance and original-task investigation. This archive contains only a reviewed aggregate and review-document hashes; overall paper gates remain incomplete.

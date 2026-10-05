@@ -54,3 +54,5 @@
 - [2026-10-05 hard-budget paired evaluation](2026-10-05_relation-hard-budget-design/README.md): conditional hard-budget design accepted with zero-variance boundary repair; no execution authorized.
 
 - [2026-10-05 commerce proposal scope screening](2026-10-05_commerce-scope-screen/README.md): ordinary scope composition closed after primary review and finite corrections; no model execution authorized.
+
+- [2026-10-05 joint latent MML screening](2026-10-05_latent-proposal-joint-screen/README.md): standard MML mechanism closed after primary review and finite cost/coverage corrections; no model execution authorized.

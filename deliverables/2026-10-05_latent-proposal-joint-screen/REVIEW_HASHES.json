@@ -1,0 +1,20 @@
+{
+  "schema": "latent_mml_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_LATENT_REVIEW_20261005T2215Z_TEXT_FREE.json",
+      "bytes": 3147,
+      "sha256": "cf0dd5ee73bc37d1ef63f30ba85885788e5134abc5fc2d770e43efff387c6cb3"
+    },
+    {
+      "name": "ROOT_LATENT_REVIEW_AND_ROUTE_20261005T2215Z.md",
+      "bytes": 2684,
+      "sha256": "56ede732a8f561a1ac56fb3c604ccebdf286b63f1c0c8f53a3eb0943e2e9ab22"
+    },
+    {
+      "name": "JOINT_LATENT_MECHANISM_AND_COUNTERMODELS.md",
+      "bytes": 10139,
+      "sha256": "f55e9d72c8bd00427d1d6e927841889d53a91a32d06dfde93eb1301ba7dfcdf0"
+    }
+  ]
+}
