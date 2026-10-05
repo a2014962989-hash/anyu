@@ -1,0 +1,14 @@
+{
+  "status": "ROOT_ACCEPTED_PREPARATION_FIT_DISPATCHED_OUTCOME_PENDING",
+  "source_sha256": "e889d527e576a698d9d82096fd6ecd0d3bd9dc6f06d6e261c3b8affe168807ce",
+  "config_sha256": "27b1bb0955e1c32fad79d0e7c579ae031bae055efa1b772e3ad064d6573f358b",
+  "final_source_review_sha256": "07237985ab84416383a79a498920211a096466795f4822696977dcdff0fabe64",
+  "preparation_review_sha256": "0c5e393200622001dc24d63a3cdb5767f62674f68bbd3427fdb93a96849b2dba",
+  "issue_count": 0,
+  "review_scope": "Saved preparation, final source AST and bindings; no Root model inference, training or tests",
+  "new_fit_budget": 2,
+  "seed": 20260912,
+  "per_arm_budget_seconds": 10800,
+  "combined_budget_seconds": 21600,
+  "independent_confirmation": 0
+}
