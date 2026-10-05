@@ -56,3 +56,5 @@
 - [2026-10-05 commerce proposal scope screening](2026-10-05_commerce-scope-screen/README.md): ordinary scope composition closed after primary review and finite corrections; no model execution authorized.
 
 - [2026-10-05 joint latent MML screening](2026-10-05_latent-proposal-joint-screen/README.md): standard MML mechanism closed after primary review and finite cost/coverage corrections; no model execution authorized.
+
+- [2026-10-05 TUMCC public provenance](2026-10-05_tumcc-primary-provenance/README.md): public provenance partly verified; original label protocol and permission scope remain open; no method execution authorized.

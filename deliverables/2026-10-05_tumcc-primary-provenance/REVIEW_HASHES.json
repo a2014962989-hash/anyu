@@ -1,0 +1,20 @@
+{
+  "schema": "tumcc_public_provenance_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_PROVENANCE_REVIEW_20261005T2255Z_TEXT_FREE.json",
+      "bytes": 3550,
+      "sha256": "34ae550a1d5599de1c5a1bc7105c6975a90f24498aa2728b9ab8caefeac4b3c1"
+    },
+    {
+      "name": "ROOT_PROVENANCE_ACCEPTANCE_AND_NEXT_GAP_20261005T2255Z.md",
+      "bytes": 2469,
+      "sha256": "af3096b0046a95035e858264dfdae40f5f6f8d651984fd06eb8d63f9db6e40ef"
+    },
+    {
+      "name": "TASK_AND_LABEL_ALIGNMENT.md",
+      "bytes": 6314,
+      "sha256": "9c639cb923d13d2dbbd55cf257d81a260fb1b8ed0b950711bb4e37c1fb095e21"
+    }
+  ]
+}
