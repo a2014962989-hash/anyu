@@ -28,3 +28,5 @@
 - [2026-10-04 fixed error/window diagnosis](2026-10-04_binary-core-error-window-diagnosis/README.md): reviewed aggregate window counts and closed current explanation.
 
 - [2026-10-05 Prospective human annotation task](2026-10-05_human-gold-full-batch/README.md): 4,323 records; labels pending, confirmation sealed.
+
+- [2026-10-05 fixed rationale sensitivity preparation](2026-10-05_binary-core-rationale-sensitivity/README.md): saved inputs and source reviewed; bounded inference authorized, results pending.

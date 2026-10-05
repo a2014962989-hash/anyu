@@ -1,0 +1,11 @@
+{
+  "scope": "TEXT_FREE_REVIEWED_PREPARATION_ONLY",
+  "files": {
+    "README.md": "63dcef5a025af31983b678fa63af84f87c14c0866d18bc67d3c6fdf7fc380504",
+    "PUBLIC_PREPARATION_SUMMARY.md": "7a22e68842c9db1ea65c966536b9a91385610fee1b29994b497cfe2d119701e2"
+  },
+  "review_report_sha256": "b089dcb9a8e86c44026b1c47dae511901d5942c5f01cf82430a96766d4918e61",
+  "inference_source_sha256": "b8ba6c2681fb258159397d3d8b34d6584c0940bb14aee81944c01188b662ad37",
+  "authorization_receipt_sha256": "ea799ea4fa4cb33d042380a51a5ba3434cdafe0fe4af8139ad4e78962a09f040",
+  "inference_outcome": "PENDING"
+}
