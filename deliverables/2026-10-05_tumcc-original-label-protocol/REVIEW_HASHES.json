@@ -1,0 +1,20 @@
+{
+  "schema": "tumcc_original_protocol_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_PROTOCOL_REVIEW_20261005T2335Z_TEXT_FREE.json",
+      "bytes": 4601,
+      "sha256": "d3b766c951fdba57d3e8b01a114a36a1a2e6c5fca1892188887e5e587496ae48"
+    },
+    {
+      "name": "ROOT_PROTOCOL_ACCEPTANCE_AND_RESOURCE_QUESTION_20261005T2335Z.md",
+      "bytes": 2709,
+      "sha256": "801bd9a7122f1a875a0f929cc44cef15615eaf61aca70899921a6f116c1332b4"
+    },
+    {
+      "name": "ORIGINAL_LABEL_AND_EVALUATION_PROTOCOL.md",
+      "bytes": 5004,
+      "sha256": "2d8f6bf611df5d5140486005d71ffdd0e7c7647dbf8e5f16c3b76eee546688c9"
+    }
+  ]
+}

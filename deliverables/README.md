@@ -58,3 +58,5 @@
 - [2026-10-05 joint latent MML screening](2026-10-05_latent-proposal-joint-screen/README.md): standard MML mechanism closed after primary review and finite cost/coverage corrections; no model execution authorized.
 
 - [2026-10-05 TUMCC public provenance](2026-10-05_tumcc-primary-provenance/README.md): public provenance partly verified; original label protocol and permission scope remain open; no method execution authorized.
+
+- [2026-10-05 original TUMCC label protocol](2026-10-05_tumcc-original-label-protocol/README.md): original word-level protocol partly verified; public recovery closed, project-data and evaluation gaps remain; no execution authorized.
