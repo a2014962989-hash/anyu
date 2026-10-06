@@ -1,0 +1,20 @@
+{
+  "schema": "empirical_contribution_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_FEASIBILITY_REVIEW_20261006T0255Z_TEXT_FREE.json",
+      "bytes": 6112,
+      "sha256": "d04eb05103cabcea6325761d8b326358d3833db9e6100b61fc410f49208dc1a1"
+    },
+    {
+      "name": "ROOT_FEASIBILITY_ACCEPTANCE_AND_ROUTE_20261006T0255Z.md",
+      "bytes": 3877,
+      "sha256": "a1e7f78ec382e9d683ffe3459b29f844836c803b2a77dc1a54c6a26cefef0a61"
+    },
+    {
+      "name": "ROOT_EXECUTION_CONTRACT.md",
+      "bytes": 3877,
+      "sha256": "577abf67d3c508e7eacea5ebed0b16b67fa2f1c7fd647ddfde5d66cfb49b70a7"
+    }
+  ]
+}
