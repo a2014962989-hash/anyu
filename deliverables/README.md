@@ -66,3 +66,5 @@
 - [2026-10-06 visible-text target validity](2026-10-06_preprocessing-target-validity/README.md): visible-target condition accepted with sufficiency repair; raw-target recoverability remains unverified.
 
 - [2026-10-06 saved-score ambiguity diagnostic](2026-10-06_saved-svm-ambiguity/README.md): saved human-uncertainty and SVM-margin overlap accepted descriptively; no new training or threshold method.
+
+- [2026-10-06 saved SVM partition diagnostic](2026-10-06_svm-ambiguity-partition/README.md): fixed development-partition margin overlap accepted descriptively; no rejection threshold or new training.

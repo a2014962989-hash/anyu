@@ -1,0 +1,20 @@
+{
+  "schema": "svm_partition_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_PARTITION_REVIEW_20261006T0215Z_TEXT_FREE.json",
+      "bytes": 4970,
+      "sha256": "90fb70aab0f1fb0f858219db1bbeff5a7f8e66f40a32e26ebbba517efccda369"
+    },
+    {
+      "name": "ROOT_RESULT_ACCEPTANCE_AND_NEXT_QUESTION_20261006T0215Z.md",
+      "bytes": 1499,
+      "sha256": "89ea7186d236cc225bc7aa67e7eb8d601d9d527d1277d3e8254b59a547ad1d44"
+    },
+    {
+      "name": "ROOT_EXECUTION_CONTRACT.md",
+      "bytes": 3357,
+      "sha256": "90719a88938977f4ecd0dda162a88866a92f79c826e923a4ba40168b3fbfa26e"
+    }
+  ]
+}
