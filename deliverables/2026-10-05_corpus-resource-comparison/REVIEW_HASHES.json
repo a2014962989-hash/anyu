@@ -1,0 +1,20 @@
+{
+  "schema": "corpus_resource_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_RESOURCE_REVIEW_20261006T0015Z_TEXT_FREE.json",
+      "bytes": 4838,
+      "sha256": "4c5da71217a1cbf8672ff0a4e2d02fc1c1af92e89666194d13040e5c4a5c9228"
+    },
+    {
+      "name": "ROOT_RESOURCE_ACCEPTANCE_AND_NEXT_VALIDITY_20261006T0015Z.md",
+      "bytes": 2705,
+      "sha256": "95aa58a1a2dc32df44f9705d173533490f01082ee9ec2b0968c49990e49af22f"
+    },
+    {
+      "name": "CORPUS_RESOURCE_DEPENDENCY_AND_COMPARISON.md",
+      "bytes": 9893,
+      "sha256": "71ffb097e59fd4753d2d4e380474e95cd793315a35f193a11fe0ea3db91bea96"
+    }
+  ]
+}
