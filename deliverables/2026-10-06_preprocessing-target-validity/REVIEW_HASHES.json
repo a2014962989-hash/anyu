@@ -1,0 +1,20 @@
+{
+  "schema": "visible_target_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_VALIDITY_REVIEW_20261006T0055Z_TEXT_FREE.json",
+      "bytes": 3636,
+      "sha256": "e4e279cf3e37b8ee9fb6c5dde18b5182a8b5e4df37f7a84e117f5bccfb7c4aeb"
+    },
+    {
+      "name": "ROOT_VALIDITY_ACCEPTANCE_AND_RESEARCH_ROUTE_20261006T0055Z.md",
+      "bytes": 1877,
+      "sha256": "a23dad0a804a23f40d6c9c37d64cbaa72d13b57e94e17b2755989f5d5d984a21"
+    },
+    {
+      "name": "VISIBLE_TARGET_AND_RECOVERABILITY.md",
+      "bytes": 7076,
+      "sha256": "d6dab3fa96ced5d1414eff9083bb466c4a14d8f2a893321f67686ffed149153c"
+    }
+  ]
+}

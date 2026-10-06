@@ -62,3 +62,5 @@
 - [2026-10-05 original TUMCC label protocol](2026-10-05_tumcc-original-label-protocol/README.md): original word-level protocol partly verified; public recovery closed, project-data and evaluation gaps remain; no execution authorized.
 
 - [2026-10-05 corpus resource comparison](2026-10-05_corpus-resource-comparison/README.md): information-boundary design conditionally accepted; empirical comparison remains NO_GO, no execution authority.
+
+- [2026-10-06 visible-text target validity](2026-10-06_preprocessing-target-validity/README.md): visible-target condition accepted with sufficiency repair; raw-target recoverability remains unverified.
