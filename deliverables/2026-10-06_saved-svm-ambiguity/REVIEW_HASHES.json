@@ -1,0 +1,20 @@
+{
+  "schema": "saved_margin_review.v1",
+  "documents": [
+    {
+      "name": "SAVED_RECOVERY_RESULTS_REVIEW_20261006T0135Z_TEXT_FREE.json",
+      "bytes": 2851,
+      "sha256": "a6893ab4a2a83ed17df88dfc0f61e8b65afadb28383f5f1552fdaed154148a2e"
+    },
+    {
+      "name": "ROOT_RESULT_ACCEPTANCE_20261006T0135Z.md",
+      "bytes": 1807,
+      "sha256": "85e54f34ddb89c2b1d2563e24283971cbaeb2e44df684954ae99efbc4acc4288"
+    },
+    {
+      "name": "ROOT_FAILURE_ACCEPTANCE_AND_RECOVERY_20261006T0135Z.md",
+      "bytes": 1413,
+      "sha256": "fa9db0d2ccdf155d2bd647d409dd4b86663e927ebb8168d52085456b6cae2564"
+    }
+  ]
+}
